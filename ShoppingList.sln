@@ -1,8 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.DataAccess", "ShoppingList.DataAccess\ShoppingList.DataAccess.csproj", "{53A47EC3-FE39-4DF3-BF97-B807DFF2E44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.BL", "ShoppingList.BL\ShoppingList.BL.csproj", "{00D64C2C-1DED-4263-82CC-DB4552B3C686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList.WebAPI", "ShoppingList.WebAPI\ShoppingList.WebAPI.csproj", "{36252515-D032-4155-B49D-6ED5FDBD28CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A47EC3-FE39-4DF3-BF97-B807DFF2E44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A47EC3-FE39-4DF3-BF97-B807DFF2E44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A47EC3-FE39-4DF3-BF97-B807DFF2E44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A47EC3-FE39-4DF3-BF97-B807DFF2E44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D64C2C-1DED-4263-82CC-DB4552B3C686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D64C2C-1DED-4263-82CC-DB4552B3C686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D64C2C-1DED-4263-82CC-DB4552B3C686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D64C2C-1DED-4263-82CC-DB4552B3C686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36252515-D032-4155-B49D-6ED5FDBD28CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36252515-D032-4155-B49D-6ED5FDBD28CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36252515-D032-4155-B49D-6ED5FDBD28CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36252515-D032-4155-B49D-6ED5FDBD28CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
