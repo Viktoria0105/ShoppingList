@@ -1,4 +1,4 @@
-using namespace ShoppingList.WebAPI.IoC
+namespace ShoppingList.WebAPI.IoC
 {
     /// <summary>
     /// Static class for Swagger configuration
