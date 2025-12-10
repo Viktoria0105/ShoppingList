@@ -1,0 +1,24 @@
+[12:13:07:945 INF ()] Now listening on: http://localhost:5151
+[12:13:08:015 INF ()] Application started. Press Ctrl+C to shut down.
+[12:13:08:023 INF ()] Hosting environment: Development
+[12:13:08:032 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[12:13:09:681 INF (5aafad0e-ac4e-43fb-8181-fcce84e79d23)] HTTP GET /swagger/index.html responded 200 in 205.9261 ms
+[12:13:09:759 INF (975f1878-47f4-4108-9375-f2aa45183d17)] HTTP GET /swagger/index.js responded 200 in 3.5365 ms
+[12:13:10:134 INF (e22ce65f-2047-48a4-b0e7-cf56ba9938a6)] HTTP GET /swagger/v1/swagger.json responded 200 in 159.9051 ms
+[12:13:44:629 INF ()] Application is shutting down...
+[12:20:12:761 INF ()] Now listening on: http://localhost:5151
+[12:20:12:917 INF ()] Application started. Press Ctrl+C to shut down.
+[12:20:12:927 INF ()] Hosting environment: Development
+[12:20:12:937 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[12:20:13:376 INF (30f04513-49ef-4cef-9020-d7f9457f263d)] HTTP GET /swagger/index.html responded 200 in 349.8733 ms
+[12:20:13:468 INF (59a10032-5ccf-4039-82f5-612968912b04)] HTTP GET /swagger/index.js responded 200 in 3.3437 ms
+[12:20:14:011 INF (ceaec9c4-93af-4e39-bdef-e68f8df43bd7)] HTTP GET /swagger/v1/swagger.json responded 200 in 363.3005 ms
+[12:21:20:234 INF ()] Application is shutting down...
+[12:52:20:129 INF ()] Now listening on: http://localhost:5151
+[12:52:20:211 INF ()] Application started. Press Ctrl+C to shut down.
+[12:52:20:219 INF ()] Hosting environment: Development
+[12:52:20:226 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[12:52:20:973 INF (02210069-08ff-47e8-adda-76887a20db4b)] HTTP GET /swagger/index.html responded 200 in 198.8592 ms
+[12:52:21:077 INF (7e67d4bc-5403-4034-a074-911e8f337035)] HTTP GET /swagger/index.js responded 200 in 5.3807 ms
+[12:52:21:236 INF (2b85703e-a601-44a0-a5b8-a2de9fd546f2)] HTTP GET /swagger/v1/swagger.json responded 200 in 55.4416 ms
+[12:52:46:771 INF ()] Application is shutting down...

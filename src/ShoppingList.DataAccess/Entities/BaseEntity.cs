@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ShoppingList.DataAccess.Entities;
 
-public class BaseEntity: IBaseEntity
+public class BaseEntity : IBaseEntity
 {
     [Key]
     public int Id { get; set; }

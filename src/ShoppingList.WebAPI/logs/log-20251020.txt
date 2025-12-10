@@ -1,0 +1,44 @@
+[10:43:12:910 INF ()] Now listening on: http://localhost:5151
+[10:43:12:985 INF ()] Application started. Press Ctrl+C to shut down.
+[10:43:12:993 INF ()] Hosting environment: Development
+[10:43:12:999 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[10:43:14:251 INF (6f61ea04-1f57-4755-8b1d-07f95b835c40)] HTTP GET /swagger/index.html responded 200 in 291.1354 ms
+[10:43:14:370 INF (09f1f66b-c7a2-4548-b924-f747d3e75363)] HTTP GET /swagger/index.js responded 200 in 5.8734 ms
+[10:43:14:765 INF (b3a4e4f6-8045-4765-9347-cd25274c05d5)] HTTP GET /swagger/v1/swagger.json responded 200 in 150.0609 ms
+[10:43:24:866 INF ()] Application is shutting down...
+[11:06:52:855 INF ()] Now listening on: http://localhost:5151
+[11:06:52:900 INF ()] Application started. Press Ctrl+C to shut down.
+[11:06:52:905 INF ()] Hosting environment: Development
+[11:06:52:910 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[11:09:47:414 INF ()] Now listening on: http://localhost:5151
+[11:09:47:472 INF ()] Application started. Press Ctrl+C to shut down.
+[11:09:47:479 INF ()] Hosting environment: Development
+[11:09:47:483 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[11:09:48:456 INF (291bf233-6feb-40eb-a56e-74894694d352)] HTTP GET /swagger/index.html responded 200 in 156.8899 ms
+[11:09:48:526 INF (2f4d0037-d45e-4aa6-9df6-b12059c50a3f)] HTTP GET /swagger/index.js responded 200 in 1.9606 ms
+[11:09:48:835 INF (be5b9960-f089-4f6a-b7f5-6ecdeb92716a)] HTTP GET /swagger/v1/swagger.json responded 200 in 143.9700 ms
+[11:09:56:140 INF ()] Application is shutting down...
+[11:13:21:257 INF ()] Now listening on: http://localhost:5151
+[11:13:21:342 INF ()] Application started. Press Ctrl+C to shut down.
+[11:13:21:350 INF ()] Hosting environment: Development
+[11:13:21:356 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[11:13:22:371 INF (5e265f2f-cec7-4de2-b355-6f1541adbf09)] HTTP GET /swagger/index.html responded 200 in 194.3291 ms
+[11:13:22:464 INF (ca7b2975-e593-431b-9e1b-83a3335d9dd6)] HTTP GET /swagger/index.js responded 200 in 4.1974 ms
+[11:13:22:720 INF (816b70c1-7c63-414c-813b-c3932c99abb2)] HTTP GET /swagger/v1/swagger.json responded 200 in 172.1275 ms
+[11:13:50:771 INF ()] Application is shutting down...
+[11:13:59:138 INF ()] Now listening on: http://localhost:5151
+[11:13:59:191 INF ()] Application started. Press Ctrl+C to shut down.
+[11:13:59:197 INF ()] Hosting environment: Development
+[11:13:59:203 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[11:14:00:243 INF (f207dfe6-5d26-4d49-a610-71e412ee61db)] HTTP GET /swagger/index.html responded 200 in 167.1102 ms
+[11:14:00:326 INF (037b69eb-a6f4-4998-968d-9c8ebd575c5f)] HTTP GET /swagger/index.js responded 200 in 3.4916 ms
+[11:14:00:530 INF (5dc24e21-46a4-4334-9ed3-42cc5ad32825)] HTTP GET /swagger/v1/swagger.json responded 200 in 138.9157 ms
+[11:14:04:705 INF ()] Application is shutting down...
+[11:19:20:262 INF ()] Now listening on: http://localhost:5151
+[11:19:20:326 INF ()] Application started. Press Ctrl+C to shut down.
+[11:19:20:329 INF ()] Hosting environment: Development
+[11:19:20:336 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[11:19:21:565 INF (7a2b11fb-a66d-4f76-80c3-ae339fe577bf)] HTTP GET /swagger/index.html responded 200 in 163.0829 ms
+[11:19:21:628 INF (651eb4fb-670c-4244-bd3c-9b9b3defa0ba)] HTTP GET /swagger/index.js responded 200 in 3.5382 ms
+[11:19:21:896 INF (a5c02312-9601-4cd9-b5f8-e6c47ce7bce2)] HTTP GET /swagger/v1/swagger.json responded 200 in 179.6902 ms
+[11:19:24:495 INF ()] Application is shutting down...

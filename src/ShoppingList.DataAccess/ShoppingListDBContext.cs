@@ -14,6 +14,7 @@ public class ShoppingListDbContext:DbContext
     public DbSet<ProductEntity> Products { get; set; }
     public DbSet<FileEntity> Files { get; set; }
     public DbSet<CategoryEntity> Categories { get; set; }
+    public DbSet<RoleEntity> Roles { get; set; }
     
     public ShoppingListDbContext(DbContextOptions options) : base(options)
     {
@@ -24,8 +25,7 @@ public class ShoppingListDbContext:DbContext
         //default identity server tables
         modelBuilder.Entity<IdentityUserClaim<int>>().ToTable("user_claims");
         modelBuilder.Entity<IdentityUserLogin<int>>().ToTable("user_logins").HasNoKey();
-        modelBuilder.Entity<IdentityUserToken<int>>().ToTable("user_tokens").HasNoKey();;
-        modelBuilder.Entity<RoleEntity>().ToTable("user_roles");
+        modelBuilder.Entity<IdentityUserToken<int>>().ToTable("user_tokens").HasNoKey();
         modelBuilder.Entity<IdentityRoleClaim<int>>().ToTable("user_role_claims");
         modelBuilder.Entity<IdentityUserRole<int>>().ToTable("user_role_owners").HasNoKey();
         
@@ -73,6 +73,7 @@ public class ShoppingListDbContext:DbContext
         modelBuilder.Entity<ProductEntity>().HasOne(x => x.Category)
             .WithMany(x => x.Product)
             .HasForeignKey(x => x.CategoryId);
+        modelBuilder.Entity<ProductEntity>().HasCheckConstraint("CK_ProductEntity_Cost", "\"Cost\" > 0");
         
         modelBuilder.Entity<FileEntity>().HasKey(x => x.Id);
         modelBuilder.Entity<FileEntity>().HasIndex(x => x.ExternalId).IsUnique();

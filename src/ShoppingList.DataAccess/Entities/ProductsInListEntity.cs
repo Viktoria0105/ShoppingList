@@ -2,7 +2,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ShoppingList.DataAccess.Entities;
 
-public class ProductsInListEntity:BaseEntity
+[Table("products_in_list")]
+
+public class ProductsInListEntity : BaseEntity
 {
     public int ShoppingListId { get; set; }
     public ShoppingListEntity ShoppingList { get; set; }

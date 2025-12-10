@@ -2,7 +2,9 @@ using ShoppingList.WebAPI.IoC;
 using ShoppingList.WebAPI.Settings;
 
 var configuration = new ConfigurationBuilder()
-    .AddJsonFile("appsettings.json", optional: false)
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddJsonFile("appsettings.Development.json", optional: false, reloadOnChange: true) 
+    .AddEnvironmentVariables() 
     .Build();
 
 var settings = ShoppingListSettingsReader.Read(configuration);

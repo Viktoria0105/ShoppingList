@@ -1,0 +1,7 @@
+[16:22:10:108 INF ()] Now listening on: http://localhost:5151
+[16:22:10:181 INF ()] Application started. Press Ctrl+C to shut down.
+[16:22:10:193 INF ()] Hosting environment: Development
+[16:22:10:200 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[16:22:11:827 INF (3479aa68-df85-4aa6-8815-8e5fbdd27472)] HTTP GET /swagger/index.html responded 200 in 395.1180 ms
+[16:22:12:472 INF (20b489c5-bec9-4ba4-a8eb-6bb6f1bcc45a)] HTTP GET /swagger/v1/swagger.json responded 200 in 231.1105 ms
+[16:28:20:383 INF ()] Application is shutting down...

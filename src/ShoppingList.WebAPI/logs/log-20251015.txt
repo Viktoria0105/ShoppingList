@@ -1,0 +1,26 @@
+[18:31:14:076 INF ()] Now listening on: http://localhost:5000
+[18:31:14:175 INF ()] Application started. Press Ctrl+C to shut down.
+[18:31:14:182 INF ()] Hosting environment: Development
+[18:31:14:191 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[18:31:14:675 WRN (35c226f9-630c-40bb-a61a-9074707b1c52)] Failed to determine the https port for redirect.
+[18:31:14:693 INF (35c226f9-630c-40bb-a61a-9074707b1c52)] HTTP GET / responded 404 in 51.1080 ms
+[18:33:34:270 INF ()] Application is shutting down...
+[19:00:46:820 INF ()] Now listening on: http://localhost:5151
+[19:00:46:902 INF ()] Application started. Press Ctrl+C to shut down.
+[19:00:46:910 INF ()] Hosting environment: Development
+[19:00:46:915 INF ()] Content root path: C:\Users\Виктория\RiderProjects\ShoppingList\ShoppingList.WebAPI
+[19:00:47:582 INF (a6bbcd35-56df-4b46-ab6d-3839f24924b9)] HTTP GET /swagger responded 301 in 26.3977 ms
+[19:00:47:902 INF (e4a49623-04e0-45bc-85c3-48c522647e17)] HTTP GET /swagger/index.html responded 200 in 287.6256 ms
+[19:00:48:013 INF (45e2e73a-9448-440e-9aad-2a144c4085b8)] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 41.5622 ms
+[19:00:48:013 INF (abc64d3b-2e21-4f04-8c52-774abe810546)] HTTP GET /swagger/swagger-ui.css responded 200 in 51.4745 ms
+[19:00:48:045 INF (f67878d2-c998-4103-9980-6a9b2812123c)] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 74.3501 ms
+[19:00:48:347 INF (939d69c1-3d42-4921-9da3-56a996d901d8)] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.5373 ms
+[19:00:48:446 INF (031b15f0-6cc2-4f8b-af38-bb4e10b9aa0c)] HTTP GET /swagger/v1/swagger.json responded 200 in 185.7438 ms
+[19:01:11:603 INF (aada6962-17bb-4db9-836a-0101bd8c7101)] HTTP GET /swagger responded 301 in 0.1632 ms
+[19:01:11:658 INF (357c2d51-50f4-4183-a742-fe5e4b134d00)] HTTP GET /swagger/index.html responded 200 in 15.8564 ms
+[19:01:11:717 INF (c26b5bcc-0d59-4fdc-812d-6a2f37189429)] HTTP GET /swagger/swagger-ui.css responded 200 in 2.1286 ms
+[19:01:11:725 INF (56bd81cf-01f2-4cc5-bb28-9d6e5f42c4aa)] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 4.6489 ms
+[19:01:11:829 INF (7fe39e96-ef0b-4cf2-b79f-9b9b8cc53395)] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 111.6555 ms
+[19:01:12:166 INF (0b1e55d8-a900-46a5-ba2c-b92757e10f22)] HTTP GET /swagger/v1/swagger.json responded 200 in 9.5581 ms
+[19:01:12:186 INF (dc89acdb-4aed-462c-947c-43610ec3726c)] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.3124 ms
+[19:15:40:823 INF ()] Application is shutting down...

@@ -2,7 +2,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ShoppingList.DataAccess.Entities;
 
-public class ShoppingListEntity:BaseEntity
+[Table("shopping_lists")]
+
+public class ShoppingListEntity : BaseEntity
 {
     public DateTime CreatedOn { get; set; }
     

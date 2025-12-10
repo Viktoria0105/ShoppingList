@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Identity;
 namespace ShoppingList.DataAccess.Entities;
 
 [Table("users")]
-public class UserEntity:IdentityUser<int>, IBaseEntity
+public class UserEntity : IdentityUser<int>, IBaseEntity
 {
     public Guid ExternalId { get; set; }
     public DateTime ModificationTime { get; set; }

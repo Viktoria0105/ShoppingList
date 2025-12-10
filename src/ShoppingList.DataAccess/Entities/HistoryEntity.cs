@@ -2,8 +2,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ShoppingList.DataAccess.Entities;
 
-[Table("History")]
-public class HistoryEntity:BaseEntity
+[Table("history")]
+public class HistoryEntity : BaseEntity
 {
     public int UserId { get; set; }
     public UserEntity User { get; set; }
